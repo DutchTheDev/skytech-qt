@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/TabBar.qml</file>
+        <file>qml/tabs/HomeTab.qml</file>
+        <file>qml/tabs/LightsTab.qml</file>
+        <file>qml/tabs/CamerasTab.qml</file>
+        <file>qml/tabs/ClimateTab.qml</file>
+        <file>qml/tabs/MusicTab.qml</file>
+        <file>qml/components/SwitchButton.qml</file>
+        <file>qml/components/Slider.qml</file>
+    </qresource>
+</RCC>
